@@ -104,8 +104,8 @@ skills:
 
 experience-title: Experience
 experience:
-- {name: Junior Developer, icon: 'icon-1.png', date: 'Oct 2019 - Jul 2020', organization: 'WEBEX'}
-- {name: Self-Employed Software Developer, icon: 'icon-2.png', date: 'Oct 2020 - Mar 2022', organization: 'AUGMEDIX'}
+- {name: Junior Developer, icon: 'icon-1.png', date: 'Oct 2019 - Jul 2020', organization: 'Cougar Helicopter Inc.'}
+- {name: Software Developer, icon: 'icon-2.png', date: 'Oct 2020 - Mar 2022', organization: 'Self-Employed'}
 
 
 #-------------------------------
@@ -113,10 +113,7 @@ experience:
 
 education-title: Education
 education:
-- {name: Marters in UX Design, date: '2006', organization: 'Masassusets Institute of Technology'}
-- {name: Honours in Fine Arts, date: '2004', organization: 'Harvard University'}
-- {name: Higher Secondary Certificat, date: '2000', organization: 'Cardiff School'}
-- {name: Secondary School Certificate, date: '1998', organization: 'Cardiff School'}
+- {name: Electronic Engineering, date: '2016', organization: 'Korea National University Of Transportation'}
 
 
 #-------------------------------
