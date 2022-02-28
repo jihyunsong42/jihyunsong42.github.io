@@ -40,11 +40,7 @@ hero:
   hero-title: Junior Software<br>Developer
 
 social:
-- {icon: "ti-facebook", link: "#"}
-- {icon: "ti-instagram", link: "#"}
-- {icon: "ti-dribbble", link: "#"}
-- {icon: "ti-twitter", link: "#"}
-
+- {icon: "ti-linkedin", link: "#"}
 
 #-------------------------------
 # About (Section and Page)
