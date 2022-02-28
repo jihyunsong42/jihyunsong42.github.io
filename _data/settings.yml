@@ -5,9 +5,9 @@ title: Jihyun's Portfolio Webpage
 logo: 
 author: themefisher
 description: this is meta description
-email: steve.fruits@email.com
-phone: +880 2544 658 256
-address: 125/A, CA Commercial Area, California, USA
+email: jihyunsong42@email.com
+phone: +1 204 963 9126
+address: 8 Hillcrest Ave, Unit 1203, North York, Ontario, Canada M2N 6Y6
 copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
@@ -38,7 +38,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Welcome to <br> Jihyun's <br> Webpage!
+  hero-title: Welcome to Jihyun's Webpage!<br>I am a Junior Software Developer.
 
 social:
 - {icon: "ti-facebook", link: "#"}
@@ -52,7 +52,7 @@ social:
 
 # About Section
 blurb:
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  A Korean-Canadian guy who likes to work independently,   
 
 blurb-btn-link: '/about'
 blurb-btn-name: know more
