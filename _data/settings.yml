@@ -52,7 +52,7 @@ social:
 
 # About Section
 blurb:
-  Hi! A Korean-Canadian guy who loves:<br>Creating toy projects<br>Studying new techs<br>Playing video game<br>Hanging out with international friends<br>
+  A Korean-Canadian guy who loves:<br>Creating side projects<br>Studying new techs<br>Playing video game<br>Hanging out with international friends<br>
 
 blurb-btn-link: '/about'
 blurb-btn-name: Do you want to know more about me?<br>Click here
@@ -95,10 +95,10 @@ team:
 
 skills-title: Skills
 skills:
-- {name: Front End, color: '#fdb157', value: '90%'}
-- {name: Back End, color: '#9473e6', value: '70%'}
-- {name: Database, color: '#bdecf6', value: '60%'}
-- {name: UI/UX, color: '#ffbcaa', value: '60%'}
+- {name: Web Design, color: '#fdb157', value: '90%'}
+- {name: Logo Design, color: '#9473e6', value: '60%'}
+- {name: After Effects, color: '#bdecf6', value: '80%'}
+- {name: Web App, color: '#ffbcaa', value: '70%'}
 
 
 #-------------------------------
@@ -106,8 +106,9 @@ skills:
 
 experience-title: Experience
 experience:
-- {name: Junior Software Developer, icon: 'icon-1.png', date: 'Oct 2019 - Jul 2020', organization: 'WEBEX'}
-- {name: Self-Employed Software Developer, icon: 'icon-2.png', date: 'Oct 2020 - Mar 2022', organization: 'AUGMEDIX'}
+- {name: Junior UX Designer, icon: 'icon-1.png', date: 'Jan 2007 - Feb 2009', organization: 'WEBEX'}
+- {name: UX & UI Designer, icon: 'icon-2.png', date: 'Mar 2009 - Aug 2014', organization: 'AUGMEDIX'}
+- {name: Senior UI Designer, icon: 'icon-3.png', date: 'Sep 2014 - Present', organization: 'THEMEFISHER'}
 
 
 #-------------------------------
@@ -115,7 +116,10 @@ experience:
 
 education-title: Education
 education:
-- {name: Electronic Engineering, date: '2006', organization: 'Korea National University Of Transportation'}\
+- {name: Marters in UX Design, date: '2006', organization: 'Masassusets Institute of Technology'}
+- {name: Honours in Fine Arts, date: '2004', organization: 'Harvard University'}
+- {name: Higher Secondary Certificat, date: '2000', organization: 'Cardiff School'}
+- {name: Secondary School Certificate, date: '1998', organization: 'Cardiff School'}
 
 
 #-------------------------------
