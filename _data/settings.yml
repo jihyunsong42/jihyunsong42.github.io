@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
 
-title: Jihyun's Portfolio Webpage
+title: Jihyun's Webpage
 logo: 
 author: themefisher
 description: this is meta description
@@ -52,10 +52,10 @@ social:
 
 # About Section
 blurb:
-  A Korean-Canadian guy who likes to work independently,   
+  A Korean-Canadian guy who loves:<br>- creating crypto projects<br>- studying new techs<br>- playing video game<br>- hanging out with international friends<br>
 
 blurb-btn-link: '/about'
-blurb-btn-name: know more
+blurb-btn-name: Do you want to know more about me?<br>Click here
 
 
 # About Page
