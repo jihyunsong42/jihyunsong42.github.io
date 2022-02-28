@@ -98,8 +98,6 @@ skills:
 - {name: Front End, color: '#fdb157', value: '80%'}
 - {name: Back End, color: '#9473e6', value: '70%'}
 - {name: Database, color: '#bdecf6', value: '50%'}
-- {name: UI/UX, color: '#ffbcaa', value: '50%'}
-
 
 #-------------------------------
 # Exprerience Section
