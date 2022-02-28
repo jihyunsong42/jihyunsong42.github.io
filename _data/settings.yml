@@ -95,10 +95,10 @@ team:
 
 skills-title: Skills
 skills:
-- {name: Front End, color: '#fdb157', value: '90%'}
+- {name: Front End, color: '#fdb157', value: '80%'}
 - {name: Back End, color: '#9473e6', value: '70%'}
-- {name: Database, color: '#bdecf6', value: '60%'}
-- {name: UI/UX, color: '#ffbcaa', value: '60%'}
+- {name: Database, color: '#bdecf6', value: '50%'}
+- {name: UI/UX, color: '#ffbcaa', value: '50%'}
 
 
 #-------------------------------
@@ -106,8 +106,8 @@ skills:
 
 experience-title: Experience
 experience:
-- {name: Junior UX Designer, icon: 'icon-1.png', date: 'Jan 2007 - Feb 2009', organization: 'WEBEX'}
-- {name: UX & UI Designer, icon: 'icon-2.png', date: 'Mar 2009 - Aug 2014', organization: 'AUGMEDIX'}
+- {name: Junior Developer, icon: 'icon-1.png', date: 'Oct 2019 - Jul 2020', organization: 'WEBEX'}
+- {name: Self-Employed Software Developer, icon: 'icon-2.png', date: 'Oct 2020 - Mar 2022', organization: 'AUGMEDIX'}
 
 
 #-------------------------------
