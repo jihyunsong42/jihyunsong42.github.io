@@ -93,8 +93,8 @@ team:
 
 skills-title: Skills
 skills:
-- {name: Angular, color: '#ff0000', value: '80%'}
-- {name: React, color: '#f0ffff', value: '70%'}
+- {name: Angular, color: '#ff0000', value: '70%'}
+- {name: React, color: '#f0ffff', value: '60%'}
 - {name: C#, color: '#89cff0', value: '60%'}
 - {name: ASP.NET, color: '#fdb157', value: '60%'}
 - {name: Express.js, color: '#9473e6', value: '60%'}
