@@ -50,7 +50,7 @@ blurb:
   A Korean-Canadian guy who love to create toy projects, studying new techs 💻<br>
   Experienced software developer professionally worked at the aircraft company<br>
   The guy who loves beer🍺, playing video games🎮 hanging out internationally🌐<br><br>
-  Check out below and see more about my projects!<br>
+  Check out below and see more about my projects!
 
 # blurb-btn-link: '/about'
 # blurb-btn-name: Do you want to know more about me?<br>Click here
@@ -93,9 +93,9 @@ team:
 
 skills-title: Skills
 skills:
-- {name: Angular, color: '#fdb157', value: '80%'}
-- {name: React, color: '#fdb157', value: '70%'}
-- {name: C#, color: '#fdb157', value: '60%'}
+- {name: Angular, color: '#ff0000', value: '80%'}
+- {name: React, color: '#f0ffff', value: '70%'}
+- {name: C#, color: '#89cff0', value: '60%'}
 - {name: ASP.NET, color: '#fdb157', value: '60%'}
 - {name: Express.js, color: '#9473e6', value: '60%'}
 - {name: SQL Server, color: '#bdecf6', value: '50%'}
