@@ -49,8 +49,8 @@ social:
 blurb:
   A Korean-Canadian guy who loves:<br>Creating toy projects<br>Studying new techs<br>Playing video games<br>Hanging out with international friends<br>
 
-blurb-btn-link: '/about'
-blurb-btn-name: Do you want to know more about me?<br>Click here
+# blurb-btn-link: '/about'
+# blurb-btn-name: Do you want to know more about me?<br>Click here
 
 
 # About Page
