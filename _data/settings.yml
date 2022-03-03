@@ -158,9 +158,6 @@ portfolio-home-items:
   - image : "assets/images/portfolio/item-3.png"
     url: "https://github.com/jihyunsong42/KSMProject"
 
-  - image : "assets/images/portfolio/item-4.png"
-    url: "https://github.com/jihyunsong42/ohmfork-frontend"
-
 
 # Portfolio Page
 portfolio-label:
