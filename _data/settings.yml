@@ -93,9 +93,12 @@ team:
 
 skills-title: Skills
 skills:
-- {name: Front End, color: '#fdb157', value: '80%'}
-- {name: Back End, color: '#9473e6', value: '70%'}
-- {name: Database, color: '#bdecf6', value: '50%'}
+- {name: Angular, color: '#fdb157', value: '80%'}
+- {name: React, color: '#fdb157', value: '70%'}
+- {name: C#, color: '#fdb157', value: '60%'}
+- {name: ASP.NET, color: '#fdb157', value: '60%'}
+- {name: Express.js, color: '#9473e6', value: '60%'}
+- {name: SQL Server, color: '#bdecf6', value: '50%'}
 
 #-------------------------------
 # Exprerience Section
