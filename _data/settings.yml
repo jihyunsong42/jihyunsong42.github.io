@@ -2,7 +2,7 @@
 #-------------------------------
 # General Site Settings
 
-title: I AM WEB3 DEVELOPER AND BLOCKCHAIN ENTHUSIAST.
+title: Jihyun's Portfolio
 logo:
 author: themefisher
 description: this is meta description
@@ -35,7 +35,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Junior Software<br>Developer
+  hero-title: I AM WEB3 DEVELOPER AND BLOCKCHAIN ENTHUSIAST.
 
 social:
   - { icon: "ti-linkedin", link: "#" }
