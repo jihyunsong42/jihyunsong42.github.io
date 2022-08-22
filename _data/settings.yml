@@ -7,7 +7,7 @@ logo:
 author: themefisher
 description: this is meta description
 email: jihyunsong42@email.com
-phone: +1 204 963 9126
+phone: +82 10 3032 9126
 address: 8 Hillcrest Ave, Unit 1203, North York, Ontario, Canada M2N 6Y6
 copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
@@ -87,8 +87,8 @@ team:
 
 skills-title: Skills
 skills:
-  - { name: Angular, color: "#ff0000", value: "70%" }
-  - { name: React, color: "#00ffff", value: "60%" }
+  - { name: React, color: "#ff0000", value: "70%" }
+  - { name: Solidity, color: "#00ffff", value: "60%" }
   - { name: C#, color: "#89cff0", value: "60%" }
   - { name: ASP.NET, color: "#fdb157", value: "60%" }
   - { name: Express.js, color: "#9473e6", value: "60%" }
@@ -100,16 +100,22 @@ skills:
 experience-title: Experience
 experience:
   - {
-      name: Junior Developer,
-      icon: "icon-1.png",
-      date: "Oct 2019 - Jul 2020",
-      organization: "Cougar Helicopter Inc.",
+      name: Web3 Developer,
+      icon: "icon-3.png",
+      date: "Mar 2022 - Current",
+      organization: "Metagram",
     }
   - {
       name: Software Developer,
       icon: "icon-2.png",
-      date: "Oct 2020 - Mar 2022",
-      organization: "Self-Employed",
+      date: "Jan 2021 - Mar 2022(1y 3 months)",
+      organization: "Heda",
+    }
+  - {
+      name: Junior Developer,
+      icon: "icon-1.png",
+      date: "Oct 2019 - Jul 2020(10 months)",
+      organization: "Cougar Helicopter Inc.",
     }
 
 #-------------------------------
